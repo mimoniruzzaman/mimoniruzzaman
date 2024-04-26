@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mi Moniruzzaman</h1>
-<h3 align="center">☛ I am a fullstock developer. A problem solver, behind a successful person, are countless sleepless nights.</h3>
+<h3 align="center">☛ I am a full-stack developer. A problem solver, behind a successful person, are countless sleepless nights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mimoniruzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="mimoniruzzaman" /> </p>
 
